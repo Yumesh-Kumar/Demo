@@ -39,6 +39,12 @@ git push origin <currentBranch>:<remoteBranch>
 
 Pushing the code to another without pushing in current branch.
 --------------------------------------------------------------
+# first push the code to current branch
 
+ git add .
+ git commit -m "message"
+ git push or 
+ git push "current branch name" both are considerable
 
-
+#Then push it into another
+git push origin <currentBranch>:<remoteBranch>
