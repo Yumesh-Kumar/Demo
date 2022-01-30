@@ -15,3 +15,18 @@ git remote add origin git@github.com:Yumesh-Kumar/Demo.git
 git branch -M main
 git push -u origin main
 
+To see the git branches
+------------------------
+git branch -a  "shows all remote branches"
+git branch "shows all local branch"
+git branch myNewBranch    "Create local branch named 'myNewBranch'"    
+
+#A local branch is a branch that only you (the local user) can see. It exists only on your local machine.
+#A remote branch is a branch on a remote location (in most cases origin). You can push the newly created local branch myNewBranch to origin. Now other users can track it. Until you push the local branch to your repository, that branch is not shown in GitHub repository.
+
+In some cases, you may want to push your changes to another branch on the remote repository without saving in current branch.
+--------------------------------------------------------------------------------------------
+
+
+
+
