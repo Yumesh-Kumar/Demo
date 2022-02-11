@@ -48,3 +48,18 @@ Pushing the code to another without pushing in current branch.
 
 #Then push it into another
 git push origin <currentBranch>:<remoteBranch>
+
+Cloning the repositories
+------------------------
+
+1 Clone the main branch with fetching all remote branches
+git clone --branch <branchName> <remote-repo-url> or
+git clone -b <branchName> <remote-repo-url>
+
+2 Clone the main branch with fetching single remote branch
+git clone --branch <branchName> --single-branch <remote-repo-url>
+git clone -b <branchName> --single-branch <remote-repo-url>
+
+
+
+
