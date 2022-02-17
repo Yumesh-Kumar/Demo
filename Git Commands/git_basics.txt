@@ -1,0 +1,27 @@
+Before Using git we must want to understand the basics of git and github. let's get starts
+
+What is git ==>
+    => git provides as a platform where we manage our source code, by tracking the code changes.
+    => It also known as version control system. That you can control version of your software and 
+       also can manage your source code.
+    => It also helps to developer to work in a single project at a time with collaborating with different 
+       functionalities so the development can be archive in fast way.
+    => before using git you must be install it in your machine. for this visit the official site of git/github
+
+What is github ==>
+    => gitHub provides us a platform where developer can manage,share and collaborate their source code 
+       with multiple developers.
+    => the git commands helps to the developer to manage their repositories in github .
+    => the github gives us repository management system from where we can manage the source code
+    => before using github you must be have an account in github. for this visit the official site of git/github
+
+Working of gitHub with git ==>
+
+1 Basically when we decide to work in a project it is more time taking when a single developer works on it and also
+  complex to manage the source code without tracking the changes history of the code.
+2 Suppose multiple developers are working in the project with deciding their tasks and the finish them also but now the major 
+  task is add the changes in a single source code section so that all changes occur in a place .
+3 Besides this situations we got multiple cases where from we can see that it is more hard to manage the project in place of developing.
+4 All this problem solved by git and github. Github is repository where we put our source code and the git is a system from which we manage our code.
+4 github allows as to make copy of our code in a multiple sub-repositories i.e. branches and we can make changes them and just merge the accepting
+  code with our main branch.
