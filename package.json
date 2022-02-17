@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev",
+    "start":"nodemon run index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yumesh-Kumar/Demo.git"
+  },
+  "author": "Yumesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yumesh-Kumar/Demo/issues"
+  },
+  "homepage": "https://github.com/Yumesh-Kumar/Demo#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
