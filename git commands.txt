@@ -60,6 +60,8 @@ git clone -b <branchName> <remote-repo-url>
 git clone --branch <branchName> --single-branch <remote-repo-url>
 git clone -b <branchName> --single-branch <remote-repo-url>
 
-
+3 Clone the specific branch with fetching all branches
+------------------------------------------------------
+git clone --branch <branchName> <remote-repo-url>
 
 
