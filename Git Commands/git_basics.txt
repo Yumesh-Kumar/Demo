@@ -17,7 +17,7 @@ What is github ==>
 
 Working of gitHub with git ==>
 
-1 Basically when we decide to work in a project it is more time taking when a single developer works on it and also
+1 Basically when we initiate to work in a project it is more time taking when a single developer works on it and also
   complex to manage the source code without tracking the changes history of the code.
 2 Suppose multiple developers are working in the project with deciding their tasks and the finish them also but now the major 
   task is add the changes in a single source code section so that all changes occur in a place .
@@ -25,3 +25,15 @@ Working of gitHub with git ==>
 4 All this problem solved by git and github. Github is repository where we put our source code and the git is a system from which we manage our code.
 4 github allows as to make copy of our code in a multiple sub-repositories i.e. branches and we can make changes them and just merge the accepting
   code with our main branch.
+5 In gitHUb our working starts as follows ---
+  => Firstly we create a repository to our github account and upload the project source code.
+  => After upload the project our project code is having in main branch of our repository. We can 
+     create multiple branches and assign them to the different developers so that they can work on 
+     it in parallel way with different tasks .
+  => A clone operation is done with our local machine so that by we can access our project source code
+     when the cloning is done we can switch to a particular branch and start working on it .
+  => After cloning a repository we are eligible to access the repository. The cloned repository that 
+     we have in our machine is known as local repository while the repository of gitHUb is called remote repository
+  => When we make changes in our local repository it must be push to our remote repository so that changes is occur 
+     in remote repository . the to major operations push and pull are performed by us for both uploading and receiving 
+     the changes .
