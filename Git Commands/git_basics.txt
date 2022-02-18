@@ -37,3 +37,5 @@ Working of gitHub with git ==>
   => When we make changes in our local repository it must be push to our remote repository so that changes is occur 
      in remote repository . the to major operations push and pull are performed by us for both uploading and receiving 
      the changes .
+
+Let as we go with a repository name 'demo' in your gitHub account for practicing and we go with it for our git commands and gitHub practice
